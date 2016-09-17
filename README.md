@@ -1,5 +1,7 @@
 # Hackerstolz says
 
+[hackerstolz.de](http://www.hackerstolz.de/)
+
 ### Usage
 
 ```js
