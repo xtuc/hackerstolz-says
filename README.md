@@ -1,3 +1,17 @@
+# Hackerstolz says
+
+### Usage
+
+```js
+
+const input = Immutable.fromJS(process.argv.slice(2, process.argv.length)).join(" ");
+const ouput = thoughtsReplace(logo, generateThoughts(input));
+
+console.log(ouput);
+```
+
+### Example
+
 ```
                       `ys `sm  /N.
                      -mMs-mMm`yMM.
