@@ -1,5 +1,7 @@
 # Hackerstolz says
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/xtuc/hackerstolz-says.svg)](https://greenkeeper.io/)
+
 [hackerstolz.de](http://www.hackerstolz.de/)
 
 ### Usage
